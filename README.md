@@ -6,7 +6,7 @@
  
 GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/eo792/rename)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/eo792/GroupManager)
 
 
 
