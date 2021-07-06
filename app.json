@@ -1,4 +1,14 @@
-
+   },
+   "keywords": [
+      "telegram",
+      "group",
+      "manager",
+      "bot"
+   ],
+   "logo": "https://telegra.ph/file/d628825281f84f576a817.jpg",
+   "name": "SHaktiMaan",
+   "repository": "https://github.com/Galib792/GroupManager"
+}
    ],
    "description": "Telegram group management bot.",
    "env": {
