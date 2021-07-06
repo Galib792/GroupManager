@@ -1,23 +1,3 @@
-  "name": "RENAMER-BOT",
-  "description": "Telegram's best Open Source Rename Bot with perm thumbnail support. Create your Fork now.",
-  "keywords": [
-    "telegram",
-    "best",
-    "open",
-    "source",
-    "Rename"
-  ],
-  "success_url": "https://github.com/Hillard-har/RENAMER-BOT",
-  "website": "https://github.com/Ts-Bots",
-  "repository": "https://github.com/Hillard-har/RENAMER-BOT",
-  "env": {
-    "WEBHOOK": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
-      "value": "ANYTHING"
-    },
-    "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
-      "value": ""
 {
    "addons": [
       {
